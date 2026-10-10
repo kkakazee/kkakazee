@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 * 🔭 **Fokus Saat Ini:** Mengembangkan proyek berbasis Web / Software Engineering.
-* 🌱 **Sedang Mempelajari:** Advanced JavaScript, Modern Frameworks, & System Architecture.
-* 💬 **Keahlian:** Web Development, JavaScript, & Problem Solving.
-* ⚡ **Prinsip:** *"Clean code always wins."*
+* 🌱 **Sedang Mempelajari:** JavaScript, Modern Frameworks, & System Architecture.
+* 💬 **Keahlian:** Gak ada.
+* ⚡ **Prinsip:** *"Jadi orang baik :)."*
 
 ---
 
