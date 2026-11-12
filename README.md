@@ -10,8 +10,8 @@
 <br />
 
 ### 🚀 About Me
-* 🔭 **Fokus Saat Ini:** Mengembangkan proyek berbasis Web / Software Engineering.
-* 🌱 **Sedang Mempelajari:** JavaScript, Modern Frameworks, & System Architecture.
+* 🔭 **Fokus Saat Ini:** Mengembangkan proyek berbasis Web.
+* 🌱 **Sedang Mempelajari:** Ai, JavaScript, Modern Frameworks, & System Architecture.
 * 💬 **Keahlian:** Gak ada.
 * ⚡ **Prinsip:** *"Jadi orang baik :)."*
 
